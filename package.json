@@ -1,0 +1,22 @@
+{
+  "name": "meaty_johnsons",
+  "version": "1.0.0",
+  "description": "A draft of a website for a restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaRudio/restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaRudio/restaurant/issues"
+  },
+  "homepage": "https://github.com/JoshuaRudio/restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
